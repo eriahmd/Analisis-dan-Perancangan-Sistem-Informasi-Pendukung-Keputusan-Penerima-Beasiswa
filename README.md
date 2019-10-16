@@ -18,7 +18,7 @@ Langkah Selanjutnya adalah Perancangan:
 ![Capture4](https://user-images.githubusercontent.com/55064831/66945451-46bcd400-f079-11e9-91fb-23b98dbd1f41.PNG)<br>
 
 3. Perancangan User Interface <br>
-![Capture5](https://user-images.githubusercontent.com/55064831/66945453-46bcd400-f079-11e9-8de0-64be87190d92.PNG)
+![Capture5](https://user-images.githubusercontent.com/55064831/66945453-46bcd400-f079-11e9-8de0-64be87190d92.PNG)<br>
 ![Capture6](https://user-images.githubusercontent.com/55064831/66945454-47556a80-f079-11e9-9e64-be04b367f1ab.PNG)
 ![Capture7](https://user-images.githubusercontent.com/55064831/66945455-47556a80-f079-11e9-9892-5f10aa425be7.PNG)<br>
 
