@@ -10,7 +10,7 @@ Langkah awal adalah Analis:
 
 Langkah Selanjutnya adalah Perancangan:
 1. Perancangan ERD dan Basis data
-![BeFunky-collage](https://user-images.githubusercontent.com/55064831/66949055-07de4c80-f080-11e9-94a4-72ccff7f4628.jpg)
+![BeFunky-collage](https://user-images.githubusercontent.com/55064831/66949307-78856900-f080-11e9-988f-8919f92b38f0.jpg)
 
 3. Perancangan User Interface <br>
 ![Capture5](https://user-images.githubusercontent.com/55064831/66945453-46bcd400-f079-11e9-8de0-64be87190d92.PNG)<br>
@@ -18,6 +18,4 @@ Langkah Selanjutnya adalah Perancangan:
 ![Capture7](https://user-images.githubusercontent.com/55064831/66945455-47556a80-f079-11e9-9892-5f10aa425be7.PNG)<br>
 
 4. Perancangan UML<br>
-![Capture8](https://user-images.githubusercontent.com/55064831/66945458-47ee0100-f079-11e9-90e5-84ac06b30192.PNG)
-![Capture9](https://user-images.githubusercontent.com/55064831/66945460-47ee0100-f079-11e9-8d59-4aacca4c18a0.PNG)
-![Capture10](https://user-images.githubusercontent.com/55064831/66945461-47ee0100-f079-11e9-9006-69816488fdfa.PNG)
+![BeFunky-collage (1)](https://user-images.githubusercontent.com/55064831/66949768-49bbc280-f081-11e9-8ca3-59a430bd7e46.jpg)
