@@ -12,10 +12,12 @@ Langkah Selanjutnya adalah Perancangan:
 1. Perancangan ERD dan Basis data
 ![BeFunky-collage](https://user-images.githubusercontent.com/55064831/66949307-78856900-f080-11e9-988f-8919f92b38f0.jpg)
 
+2. Perancangan Input-Output <br>
+![BeFunky-collage (3)](https://user-images.githubusercontent.com/55064831/66950460-99e75480-f082-11e9-8931-f7f35e1b2662.jpg)
+
+
 3. Perancangan User Interface <br>
-![Capture5](https://user-images.githubusercontent.com/55064831/66945453-46bcd400-f079-11e9-8de0-64be87190d92.PNG)<br>
-![Capture6](https://user-images.githubusercontent.com/55064831/66945454-47556a80-f079-11e9-9e64-be04b367f1ab.PNG)
-![Capture7](https://user-images.githubusercontent.com/55064831/66945455-47556a80-f079-11e9-9892-5f10aa425be7.PNG)<br>
+![BeFunky-collage (2)](https://user-images.githubusercontent.com/55064831/66950108-f8f89980-f081-11e9-8923-6086beeb3b32.jpg)
 
 4. Perancangan UML<br>
 ![BeFunky-collage (1)](https://user-images.githubusercontent.com/55064831/66949768-49bbc280-f081-11e9-8ca3-59a430bd7e46.jpg)
