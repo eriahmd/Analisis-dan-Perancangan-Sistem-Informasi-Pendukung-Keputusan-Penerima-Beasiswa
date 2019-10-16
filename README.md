@@ -9,7 +9,7 @@ Langkah awal adalah Analis:
 4. Analisis Kelayakan Sistem (Teknis, Operasional, Ekonomi)<br>
 
 Langkah Selanjutnya adalah Perancangan:
-1. Perancangan ERD dan Basis data<br>![collage1 (1)](https://user-images.githubusercontent.com/55064831/66947453-2131c980-f07d-11e9-9bc1-045e9ac5ff05.png)
+1. Perancangan ERD dan Basis data<br>
 ![collage1 (1)](https://user-images.githubusercontent.com/55064831/66947453-2131c980-f07d-11e9-9bc1-045e9ac5ff05.png)<br>
 
 3. Perancangan User Interface <br>
