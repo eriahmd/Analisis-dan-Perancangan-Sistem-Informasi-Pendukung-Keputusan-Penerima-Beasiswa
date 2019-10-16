@@ -9,7 +9,7 @@ Langkah awal adalah Analis:
 Langkah Selanjutnya adalah Perancangan:
 1. Perancangan ERD dan Basis data
 2. Perancangan Input Output
-3. Perancangan UI
+3. Perancangan User Interface
 4. Perancangan UML
 
 
